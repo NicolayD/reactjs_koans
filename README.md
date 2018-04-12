@@ -34,6 +34,11 @@ You can run a webserver and see your changes live in your web browser:
   4. Try to not peek at the test files! They contain spoilers.
   5. To run the tests, use `npm run test`. To automatically run tests when your code changes, use `npm run watch`.
 
+## Docker based setup
+
+  1.  Run `docker-compose up`.
+  2.  You will have a webserver running and tests run automatically when you change the code.
+
 ## Video walkthrough
 
  * [Koans Installation](https://www.youtube.com/watch?v=Csf909B5_Qg)
