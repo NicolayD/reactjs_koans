@@ -38,6 +38,7 @@ You can run a webserver and see your changes live in your web browser:
 
   1.  Run `docker-compose up`.
   2.  You will have a webserver running and tests run automatically when you change the code.
+  3.  If you are not able to save files in the `exercises` directory run `sudo chown you:your_group -R exercises`.
 
 ## Video walkthrough
 
